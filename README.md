@@ -23,6 +23,7 @@
 <p>💡 &nbsp;I like to solve algorithmic problems or work on side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about AI, AWS, and get into Open Source.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1So-1mVcXBQVtOCxonz5NWYnX5G3gsh16/view?usp=sharing">Résumé</a> for more details about me.</p>
 
 <br />
 
