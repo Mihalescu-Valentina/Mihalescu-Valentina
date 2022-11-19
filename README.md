@@ -14,3 +14,26 @@
 		<img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
 </p>
+
+## 👨🏻‍💻 &nbsp;About Me:
+
+<p>🗯️ &nbsp;I’m currently looking for an internship role as a Software Developer.</p>
+<p>❄️ &nbsp;I’m currently working on developing my knowledge in Software Engineering, Machine Learning and Cloud Computing</p>
+<p>🎓 &nbsp;I'm currently a second year undergraduate studying Computer Science at <a href = "https://www.cs.ubbcluj.ro</a>.</p>
+<p>💡 &nbsp;I like to solve algorithmic problems or work on side project during my free time.</p>
+<p>🌱 &nbsp;I'm on track for learning more about AI, AWS, and get into Open Source.</p>
+<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1H0m7DVZINevHgJdROMNolEujMEx0p8YK/edit">Résumé</a> for more details about me.</p>
+
+<br />
+
+## 🛠 &nbsp;Tech Stack:
+
+### 💻 &nbsp;Languages:
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java]https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+<hr />
