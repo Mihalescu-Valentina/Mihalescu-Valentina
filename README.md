@@ -6,7 +6,8 @@
 	<a href="https://www.linkedin.com/in/valentina-mihalescu">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	
-	<a href="https://www.facebook.com/profile.php?id=100010091673437/">
-		<img src="https://img.shields.io/badge/FaceBook-0000FF?style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+		<a href="https://www.facebook.com/profile.php?id=100010091673437/">
+		<img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
 </p>
