@@ -7,6 +7,9 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	
 </a>
+	<a href="mailto:valentinamihalescu8@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 	<a href="https://www.facebook.com/profile.php?id=100010091673437">
 		<img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
